@@ -95,7 +95,7 @@ This project is inspired by the following research:
 
 Special thanks to **Thieu Pham** for developing the `reflame` library.
 
-For more information or questions, please contact `berkaykaratas054@gmail.com`.
+**For more information or questions, please contact `berkaykaratas054@gmail.com`.**
 
 
 
