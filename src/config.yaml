@@ -1,0 +1,16 @@
+model:
+  optimizer: Firefly
+  epoch: 25
+  pop_size: 70
+  act_name: relu
+  obj_name: RMSE
+  n_funcs: 3
+
+data:
+  tickers: ["TUPRS.IS"]
+  interval: "60m"
+  start_days: 435
+  technical_indicators:
+    - RSI
+    - MAVI
+  train_split: 0.8
